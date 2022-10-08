@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3885e327.css",
-    "main.js": "/static/js/main.45934fd1.js",
+    "main.js": "/static/js/main.7f833bc5.js",
     "static/js/415.2d4a1a0c.chunk.js": "/static/js/415.2d4a1a0c.chunk.js",
     "static/js/787.676b0d6f.chunk.js": "/static/js/787.676b0d6f.chunk.js",
     "static/media/home-bg.jpg": "/static/media/home-bg.0b2f45a25f9e97b5562a.jpg",
@@ -9,21 +9,21 @@
     "static/media/emotion.png": "/static/media/emotion.eabfc16e7a146ab15778.png",
     "static/media/suicide.png": "/static/media/suicide.9c86cd7138a398c45fa5.png",
     "static/media/pfp.png": "/static/media/pfp.a7f6e7ae7c32af12c82b.png",
+    "static/media/logo.png": "/static/media/logo.6e7c8fa2f7af5a373d5a.png",
     "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
     "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/chatify.png": "/static/media/chatify.7206044e0b5cdad44726.png",
-    "static/media/logo.png": "/static/media/logo.8d02cb0e39a9dc947622.png",
     "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/static/media/Soumyajit_Behera-BIT_MESRA.a1cb5c1907e31e31991a.pdf",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.3885e327.css.map": "/static/css/main.3885e327.css.map",
-    "main.45934fd1.js.map": "/static/js/main.45934fd1.js.map",
+    "main.7f833bc5.js.map": "/static/js/main.7f833bc5.js.map",
     "415.2d4a1a0c.chunk.js.map": "/static/js/415.2d4a1a0c.chunk.js.map",
     "787.676b0d6f.chunk.js.map": "/static/js/787.676b0d6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3885e327.css",
-    "static/js/main.45934fd1.js"
+    "static/js/main.7f833bc5.js"
   ]
 }
