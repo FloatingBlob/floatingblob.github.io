@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/floatingblob.github.io/static/css/main.1f2bd0ac.css",
-    "main.js": "/floatingblob.github.io/static/js/main.8443b5d8.js",
-    "static/js/787.676b0d6f.chunk.js": "/floatingblob.github.io/static/js/787.676b0d6f.chunk.js",
-    "static/media/islandr.png": "/floatingblob.github.io/static/media/islandr.48549d757b050603b9f1.png",
-    "static/media/logo.png": "/floatingblob.github.io/static/media/logo.a274c5fb244815b4cd8e.png",
-    "static/media/pfp.png": "/floatingblob.github.io/static/media/pfp.302f720273d3f92b2abe.png",
-    "static/media/r2.png": "/floatingblob.github.io/static/media/r2.50f6e2caa36e8fbfccdd.png",
-    "static/media/steam.png": "/floatingblob.github.io/static/media/steam.cc45088a04fd31b2cb99.png",
-    "static/media/link.png": "/floatingblob.github.io/static/media/link.5ba2e5683385369b8e71.png",
-    "static/media/clover.png": "/floatingblob.github.io/static/media/clover.51ba85000bb7de90f221.png",
-    "static/media/cards.png": "/floatingblob.github.io/static/media/cards.4442240fa5da561bcfb8.png",
-    "static/media/house.png": "/floatingblob.github.io/static/media/house.16cd8d2d0a66252f4d03.png",
-    "static/media/home-bg.jpg": "/floatingblob.github.io/static/media/home-bg.60021edb5e1451d4802c.jpg",
-    "static/media/wordle.png": "/floatingblob.github.io/static/media/wordle.d4e2f13dabcf494a2d01.png",
-    "static/media/turnip.png": "/floatingblob.github.io/static/media/turnip.bb281d92b338124e4ccd.png",
-    "static/media/genshin.jpg": "/floatingblob.github.io/static/media/genshin.e59467a876b6fc7ddc02.jpg",
-    "index.html": "/floatingblob.github.io/index.html",
-    "static/media/pre.svg": "/floatingblob.github.io/static/media/pre.8a3474048353254e59d1.svg",
-    "main.1f2bd0ac.css.map": "/floatingblob.github.io/static/css/main.1f2bd0ac.css.map",
-    "main.8443b5d8.js.map": "/floatingblob.github.io/static/js/main.8443b5d8.js.map",
-    "787.676b0d6f.chunk.js.map": "/floatingblob.github.io/static/js/787.676b0d6f.chunk.js.map"
+    "main.css": "/static/css/main.c796bcf5.css",
+    "main.js": "/static/js/main.e395765f.js",
+    "static/js/787.676b0d6f.chunk.js": "/static/js/787.676b0d6f.chunk.js",
+    "static/media/islandr.png": "/static/media/islandr.48549d757b050603b9f1.png",
+    "static/media/logo.png": "/static/media/logo.a274c5fb244815b4cd8e.png",
+    "static/media/pfp.png": "/static/media/pfp.302f720273d3f92b2abe.png",
+    "static/media/r2.png": "/static/media/r2.50f6e2caa36e8fbfccdd.png",
+    "static/media/steam.png": "/static/media/steam.cc45088a04fd31b2cb99.png",
+    "static/media/link.png": "/static/media/link.5ba2e5683385369b8e71.png",
+    "static/media/clover.png": "/static/media/clover.51ba85000bb7de90f221.png",
+    "static/media/cards.png": "/static/media/cards.4442240fa5da561bcfb8.png",
+    "static/media/house.png": "/static/media/house.16cd8d2d0a66252f4d03.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.60021edb5e1451d4802c.jpg",
+    "static/media/wordle.png": "/static/media/wordle.d4e2f13dabcf494a2d01.png",
+    "static/media/turnip.png": "/static/media/turnip.bb281d92b338124e4ccd.png",
+    "static/media/genshin.jpg": "/static/media/genshin.e59467a876b6fc7ddc02.jpg",
+    "index.html": "/index.html",
+    "static/media/pre.svg": "/static/media/pre.8a3474048353254e59d1.svg",
+    "main.c796bcf5.css.map": "/static/css/main.c796bcf5.css.map",
+    "main.e395765f.js.map": "/static/js/main.e395765f.js.map",
+    "787.676b0d6f.chunk.js.map": "/static/js/787.676b0d6f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f2bd0ac.css",
-    "static/js/main.8443b5d8.js"
+    "static/css/main.c796bcf5.css",
+    "static/js/main.e395765f.js"
   ]
 }
