@@ -1,3 +1,3 @@
 # floatingblob.github.io
 
-a project that I'm working on
+one of my first web dev projects
